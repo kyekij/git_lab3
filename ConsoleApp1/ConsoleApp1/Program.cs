@@ -2,3 +2,5 @@
 int b = 5;
 int c = a + b;
 Console.WriteLine("Result of a+b="+c);
+
+int pr = a * b;
