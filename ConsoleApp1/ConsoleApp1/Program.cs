@@ -5,3 +5,5 @@ Console.WriteLine("Result of a+b="+c);
 
 int pr = a * b;
 Console.WriteLine("умножение = " + pr);
+int div = a / b;
+Console.WriteLine("Деление = " + div);
