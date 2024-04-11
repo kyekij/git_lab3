@@ -3,4 +3,5 @@ int b = 5;
 int c = a + b;
 Console.WriteLine("Result of a+b="+c);
 
-int res = a * b;
+int pr = a * b;
+Console.WriteLine("умножение = " + pr);
